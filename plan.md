@@ -85,10 +85,8 @@
 ---
 
 ## 6. Progression System (Milestones)
-
-**Currency:** Credits ($)
-
    **Unlock Milestones:**
+    * **Cost:** All Milestones cost increasingly more money up until M.9
     * **Milestone 1:** Unlocks Belts & Scrapper (Start).
     * **Milestone 2:** Unlocks Washer & Smelter.
     * **Milestone 3:** Unlocks Assembler (Crafting).
