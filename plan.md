@@ -88,22 +88,18 @@
 
 **Currency:** Credits ($)
 
-**Upgrades to Buy:**
-1.  **Delivery Contracts:**
-    * Level 1: Slow delivery, rusty bots.
-    * Level 2: Faster delivery.
-    * Level 3: High-Tech bots (contain Gold/Titanium).
-
-2.  **Scrap Tech:**
-    * **Precision Lasers:** Scrappers produce *more* scrap per robot.
-    * **Speed Overclock:** Scrappers work 2x faster.
-
-3.  **Unlock Milestones:**
+   **Unlock Milestones:**
     * **Milestone 1:** Unlocks Belts & Scrapper (Start).
     * **Milestone 2:** Unlocks Washer & Smelter.
     * **Milestone 3:** Unlocks Assembler (Crafting).
     * **Milestone 4:** Unlocks Auto-Power.
-
+   **Milestones Past 5-8:**
+    * **Machine Unlocks:** All machines get a higher-tier version per milestone.
+    * **More Resources:** Makes the speed of the scrap dropper increase and also drops better robots (this also applies to 1-4 just not as much of a boost)
+    * **Milestone 8 Specifics:** Unlocks a booster that gives random quests for automation (e.g. 10/s smartphones) and when completion of the quest is verified you get another boost to either overall machine performance or speed of the scrap chute.
+   **Milestone 9:**
+    * **Difficulty:** This milestone requires you to automate 30/s of every final product in the game
+    * **Victory:** Upon completion of this milestone, you will be shown the victory screen and be thanked for playing.
 ---
 
 ## 7. Technical Todo List (Development Steps)
