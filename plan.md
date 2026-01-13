@@ -49,7 +49,7 @@
 * **Washer:** Input: Dirty Item + Water (optional) -> Output: Clean Item.
 * **Smelter:** Input: Metal Scrap -> Output: Ingot.
 * **Assembler:** Input: Item A + Item B -> Output: New Product.
-* **Recycler:** Input: Any Item -> Output: $ (Low value, used for overflowing trash).
+* **Selling Chute:** Input: Any Item -> Output: $ (uses no power, shoots items into the sky, which "sells" them).
 
 ### Logistics
 * **Conveyor Belt:** Moves items.
