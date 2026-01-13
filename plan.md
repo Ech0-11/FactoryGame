@@ -56,7 +56,6 @@
 * **Splitter/Merger:** Divides or combines lines.
 * **Filter Arm:** Grabs specific items (Essential for sorting the random output of Scrappers).
 * **Silo:** Stores large amounts of items (Buffer).
-* **Sales Bin:** The final destination. Converts items to Money.
 
 ---
 
